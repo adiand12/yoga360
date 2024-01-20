@@ -1,4 +1,6 @@
-#Yoga360
+# Yoga360
+
+A portfolio website for a yoga instructor made using React.js, Express.js and MongoDB.
 
 [Website](https://yoga360.vercel.app/)
 
